@@ -9,3 +9,7 @@ To analyze the data, all csvs across all dates for the `city` variable are read,
 
 
 ![image](https://user-images.githubusercontent.com/46106765/173243683-2144c1a7-28e4-4d0e-b144-020c455eb195.png)
+
+## future plans ##
+* Scrape the thumbnail image of the house
+* Format the hover on the plotly chart to include all information about the house and the homes thumbnail image
